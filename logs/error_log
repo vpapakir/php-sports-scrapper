@@ -1,0 +1,450 @@
+[30-May-2015 14:25:19 Australia/Queensland] PHP Notice:  Undefined index: m in /home/moneyin8/public_html/cron_jobs/records.php on line 32
+[31-May-2015 16:01:25 Australia/Queensland] PHP Notice:  Undefined index: m in /home/moneyin8/public_html/cron_jobs/records.php on line 32
+[05-Jun-2015 21:17:37 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/moneyin8/public_html/cron_jobs/scrape_runner_data.php on line 630
+[09-Jun-2015 04:49:28 America/Denver] PHP Fatal error:  Call to undefined function returnXPathObject() in /home/moneyin8/public_html/cron_jobs/scrape_runner_data1.php on line 5
+[09-Jun-2015 04:49:33 America/Denver] PHP Fatal error:  Call to undefined function returnXPathObject() in /home/moneyin8/public_html/cron_jobs/scrape_runner_data1.php on line 5
+[14-Jun-2015 15:22:42 Australia/Queensland] PHP Fatal error:  Class 'Database' not found in /home/moneyin8/public_html/cron_jobs/scrape_runner_data1.php on line 20
+[14-Jun-2015 15:22:44 Australia/Queensland] PHP Fatal error:  Class 'Database' not found in /home/moneyin8/public_html/cron_jobs/scrape_runner_data1.php on line 20
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_18 in /home/moneyin8/public_html/cron_jobs/records.php on line 129
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_13 in /home/moneyin8/public_html/cron_jobs/records.php on line 131
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: tatts_runr_win_7 in /home/moneyin8/public_html/cron_jobs/records.php on line 133
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_b in /home/moneyin8/public_html/cron_jobs/records.php on line 148
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_18_L in /home/moneyin8/public_html/cron_jobs/records.php on line 149
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_b in /home/moneyin8/public_html/cron_jobs/records.php on line 152
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_13_L in /home/moneyin8/public_html/cron_jobs/records.php on line 153
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_b in /home/moneyin8/public_html/cron_jobs/records.php on line 156
+[15-Jun-2015 11:47:00 Australia/Queensland] PHP Notice:  Undefined index: bf_runr_win_7_L in /home/moneyin8/public_html/cron_jobs/records.php on line 157
+[06-Mar-2016 10:44:01 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 157
+[06-Mar-2016 10:46:01 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 157
+[06-Mar-2016 10:48:01 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 157
+[06-Mar-2016 10:50:01 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 157
+[06-Mar-2016 10:52:01 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 157
+[06-Mar-2016 11:00:01 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 157
+[06-Mar-2016 11:10:02 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 157
+[06-Mar-2016 11:20:02 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 157
+[06-Mar-2016 11:30:02 America/Denver] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 157
+[07-Mar-2016 05:10:01 Australia/Brisbane] PHP Fatal error:  Call to undefined function print_f() in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 33
+[07-Mar-2016 06:00:04 Australia/Brisbane] PHP Fatal error:  Call to private method Database::free_result() from context '' in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 164
+[07-Mar-2016 06:10:01 Australia/Brisbane] PHP Fatal error:  Call to private method Database::free_result() from context '' in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 19
+[20-Mar-2016 09:10:12 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Mar-2016 00:00:05 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Mar-2016 00:10:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Mar-2016 00:20:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Mar-2016 00:30:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[20-Apr-2016 22:20:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-May-2016 22:20:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[27-May-2016 01:11:05 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[31-May-2016 14:40:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[06-Jun-2016 02:11:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[15-Jun-2016 11:40:16 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[15-Jun-2016 11:50:16 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[15-Jun-2016 12:00:16 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[15-Jun-2016 12:10:16 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[15-Jun-2016 12:20:16 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Jun-2016 08:40:21 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[14-Jul-2016 22:20:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[16-Jul-2016 07:00:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[16-Jul-2016 08:50:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[16-Jul-2016 18:50:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[21-Jul-2016 22:20:06 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[23-Jul-2016 12:50:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[13-Aug-2016 22:20:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[16-Aug-2016 22:20:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Aug-2016 22:30:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Aug-2016 22:40:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[26-Aug-2016 22:20:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[26-Aug-2016 22:30:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[31-Aug-2016 00:10:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 01:30:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 16:20:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 16:50:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 17:20:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 17:30:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 17:50:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 18:00:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 18:30:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 19:00:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 19:30:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 20:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 20:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 20:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 21:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 21:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 22:10:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 22:40:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 22:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 23:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 23:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[07-Sep-2016 23:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[08-Sep-2016 00:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[08-Sep-2016 00:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[08-Sep-2016 01:00:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[08-Sep-2016 01:30:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[08-Sep-2016 02:00:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[08-Sep-2016 02:30:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[08-Sep-2016 03:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[08-Sep-2016 03:30:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[08-Sep-2016 07:04:42 Australia/Queensland] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 121
+[09-Sep-2016 22:20:07 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[10-Sep-2016 09:20:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[10-Sep-2016 22:20:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[14-Sep-2016 17:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[14-Sep-2016 18:00:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[14-Sep-2016 18:30:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[14-Sep-2016 18:40:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[14-Sep-2016 19:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[14-Sep-2016 19:40:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[14-Sep-2016 19:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[14-Sep-2016 20:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[14-Sep-2016 20:30:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[14-Sep-2016 21:00:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[15-Sep-2016 10:10:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[15-Sep-2016 22:20:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 16:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 16:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 17:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 17:40:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 18:00:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 18:20:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 18:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 19:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 19:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 19:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 20:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 20:40:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 21:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 21:40:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 21:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 22:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 22:30:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 23:00:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 23:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 23:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[17-Sep-2016 23:40:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 00:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 00:20:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 00:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 01:30:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 02:00:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 02:10:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 02:40:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 03:10:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 03:50:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 04:20:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 04:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 05:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 05:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 05:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 06:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 07:00:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 07:30:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 08:00:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 08:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 08:30:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 08:40:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 09:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 09:40:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 10:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 10:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 10:40:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 10:50:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 11:20:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 11:50:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 12:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 12:20:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 12:30:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 13:00:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 13:20:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 13:50:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 14:00:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 14:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 15:00:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 16:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 16:20:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 17:10:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 17:40:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 18:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 18:30:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 19:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 20:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 20:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 20:40:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 21:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 21:40:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 22:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 22:40:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 23:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 23:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[18-Sep-2016 23:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 00:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 00:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 01:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 01:20:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 01:30:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 02:00:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 02:30:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 02:40:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 03:10:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 03:40:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 03:50:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 04:20:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 04:50:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 05:00:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 05:30:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 06:00:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 06:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 06:40:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 07:00:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 07:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 07:40:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 08:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 08:30:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 08:40:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 09:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 09:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 10:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 10:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 11:20:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 11:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 12:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 12:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 13:30:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 14:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 14:30:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 15:00:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 15:10:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 15:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 16:00:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 16:10:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 16:40:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 17:10:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 17:40:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 18:10:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 18:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 19:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 19:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 20:20:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 20:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 20:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 21:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 21:20:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 21:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 21:50:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 22:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 22:30:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 22:50:16 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 23:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 23:20:21 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[19-Sep-2016 23:30:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[20-Sep-2016 00:00:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[20-Sep-2016 00:30:27 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on a non-object in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 17:06:16 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 17:34:26 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 17:45:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 17:50:11 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 18:00:12 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 18:16:34 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 18:35:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 18:45:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 18:50:12 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 19:05:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 19:10:12 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 19:20:15 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 19:35:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[24-Sep-2016 19:40:12 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Sep-2016 08:40:11 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Sep-2016 08:55:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Sep-2016 09:05:02 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Sep-2016 09:45:01 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[26-Sep-2016 13:58:20 Australia/Queensland] PHP Notice:  Undefined index: m in /home/moneyin8/public_html/cron_jobs/records.php on line 32
+[27-Sep-2016 10:23:00 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[05-Oct-2016 23:23:12 Australia/Queensland] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 121
+[06-Oct-2016 05:41:39 Australia/Queensland] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 121
+[04-Nov-2016 17:20:25 Australia/Queensland] PHP Notice:  Undefined index: m in /home/moneyin8/public_html/cron_jobs/records.php on line 32
+[13-Dec-2016 10:10:50 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 00:00:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 00:10:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 00:20:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 00:30:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 00:40:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 00:50:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 01:00:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 01:10:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 01:20:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 01:30:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 01:40:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 01:50:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 02:00:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 02:10:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 02:20:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 02:30:05 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 02:40:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 02:50:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 03:00:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 03:10:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 03:20:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 03:30:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 03:40:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 03:50:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 04:00:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 04:10:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 04:20:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 04:30:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 04:40:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 04:50:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 05:00:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 05:10:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 05:20:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 05:30:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 05:40:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 05:50:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 06:00:09 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 06:10:05 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 06:20:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 06:30:05 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 06:40:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 06:50:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 07:00:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 07:10:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 07:20:03 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[25-Dec-2016 07:30:04 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
+[13-Jan-2017 15:27:56 Australia/Queensland] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 121
+[13-Jan-2017 19:44:34 Australia/Queensland] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 121
+[14-Jan-2017 00:05:53 Australia/Queensland] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 121
+[14-Jan-2017 02:00:34 Australia/Queensland] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 121
+[14-Jan-2017 11:32:17 Australia/Queensland] PHP Fatal error:  Call to a member function getElementsByTagName() on null in /home/moneyin8/public_html/cron_jobs/startTimeSync.php on line 40
