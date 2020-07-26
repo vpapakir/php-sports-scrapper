@@ -1,6 +1,6 @@
 <?php
 
-$script_path = "/home/moneyinmotioncom/public_html/cron_jobs/logs";
+$script_path = "../logs";
 
 //only show the error if in debug mode
 error_reporting(E_ALL);
